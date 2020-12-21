@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bsaw:block/emerald_alloy_block"
+  }
+}

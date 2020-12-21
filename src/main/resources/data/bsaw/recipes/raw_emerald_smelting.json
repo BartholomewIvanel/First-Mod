@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bsaw:raw_emerald"
+  },
+  "result": "bsaw:emerald_alloy_ingot",
+  "experience": 5.0,
+  "cookingtime": 120
+}

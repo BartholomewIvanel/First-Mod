@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bsaw:titanium_ore"
+  },
+  "result": "bsaw:titanium_ingot",
+  "experience": 10,
+  "cookingtime": 420
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "bsaw:raw_emerald"
+  },
+  "result": "bsaw:emerald_alloy_ingot",
+  "experience": 7.0,
+  "cookingtime": 60
+}

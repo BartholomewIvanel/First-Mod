@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+          [
+            "xxx",
+            "xox",
+            "xxx"
+          ],
+  "key": {
+    "x": {
+      "item": "bsaw:emerald_alloy_ingot"
+    },
+    "o": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result":{
+    "item": "bsaw:emerald_apple"
+  }
+}
